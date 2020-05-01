@@ -56,7 +56,7 @@ def liste_prenoms(d):
 
 
 
-# Tests the functionality of above methods:
+# Tests the functionality of above methods, and does some other Regex work:
 if __name__== "__main__":
     print(carre("baba"))
 
